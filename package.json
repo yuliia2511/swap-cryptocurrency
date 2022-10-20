@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@0x/contract-wrappers": "^13.22.5",
+    "@openzeppelin/contracts": "^4.7.3",
+    "bignumber.js": "^9.1.0",
+    "browserify-shim": "^3.8.15",
+    "moralis-v1": "^1.11.0",
+    "qs": "^6.11.0",
+    "save": "^2.9.0",
+    "uniq": "^1.0.1",
+    "web3": "^1.8.0"
+  }
+}
